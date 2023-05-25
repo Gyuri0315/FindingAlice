@@ -87,15 +87,15 @@
 
 - **코드 스타일 가이드 라인**   
    * **클래스**    
-      * 클래스의 이름은 파스칼 표기법 사용 (예: AxisTouchButton, GameManager)   
+      * 파스칼 표기법 사용 (예: AxisTouchButton, GameManager)   
       * 접근 지정자(public, private, 등) 항상 표기하기   
 
    * **변수**    
-      * 변수 이름은 카멜 표기법 사용 (예: axisName, responseSpeed)   
+      * 카멜 표기법 사용 (예: axisName, responseSpeed)   
       * 변수는 기능별로 정렬하기   
 
    * **함수**   
-      * 함수의 이름은 카멜 표기법 사용 (예: OnPointerDown, FindPairedButton)   
+      * 파스칼 표기법 사용 (예: OnPointerDown, FindPairedButton)   
    
 >>>```C#
 >>> //사용예시(아래 형식으로 쓸 것)
