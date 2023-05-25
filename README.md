@@ -43,7 +43,7 @@
 ![캐릭터 스프라이트](/Deck/Rabbit_Sprite.PNG)   
 
 - **아이템 이미지**   
-![아이템1](https://github.com/Gyuri0315/FindingAlice/assets/122785488/6a495c0e-b879-4edd-83dc-6a695c2f474f)   
+![아이템1](https://github.com/Gyuri0315/FindingAlice/assets/122785488/ea293676-843e-431e-9054-4e89c34933fe)      
 ![아이템2](https://github.com/Gyuri0315/FindingAlice/assets/122785488/79174668-d81c-463d-90ca-e8284bf91b65)   
 ![아이템3](https://github.com/Gyuri0315/FindingAlice/assets/122785488/1f2a926f-0e0f-4497-8685-fd1fa4356091)   
 
