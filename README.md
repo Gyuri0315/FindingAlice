@@ -121,8 +121,9 @@
 - **파인딩앨리스 설문조사 링크**: [링크](https://docs.google.com/forms/d/e/1FAIpQLScKXSLZwnU7ZOz2QlLN3dmoqAGOPZDtzA7EsF5PSpt_eQ7j4g/viewform?usp=sharing)
 - **파인딩앨리스 기획서 Notion Page**: [링크](https://absorbed-splash-9bb.notion.site/a1834c6a357d4bfe84a5722cd9f11c60)
 
+***   
 ## 멤버 소개  
-
+***   
 <details><summary> 2022 </summary><br/><div markdown="1">
   
 | 이름 | 구분 | 비고 |
