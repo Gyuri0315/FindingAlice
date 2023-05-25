@@ -31,10 +31,10 @@
 ***
 
 - **튜토리얼 이미지**
-![튜토리얼](![image](https://github.com/Gyuri0315/FindingAlice/assets/122785488/59158214-39dd-4645-984f-1650bdbdbe14))
+![튜토리얼](https://github.com/Gyuri0315/FindingAlice/assets/122785488/b9e5448f-95e9-4ebe-97b2-7d5ea64cc1a0)
 
 - **챕터 1 이미지**
-![챕터 1](이미지_링크)
+![1장](https://github.com/Gyuri0315/FindingAlice/assets/122785488/a52fbb15-6a47-42a2-abf2-24f8c0164a96)
 
 - **플랫폼 이미지**
 ![플랫폼](이미지_링크)
@@ -59,4 +59,4 @@
 ## Pages
 ***
 - **파인딩앨리스 설문조사 링크**: [링크](https://docs.google.com/forms/d/e/1FAIpQLScKXSLZwnU7ZOz2QlLN3dmoqAGOPZDtzA7EsF5PSpt_eQ7j4g/viewform?usp=sharing)
-- **파인딩앨리스 기획서 Notion Page**: [링크]((https://absorbed-splash-9bb.notion.site/a1834c6a357d4bfe84a5722cd9f11c60))
+- **파인딩앨리스 기획서 Notion Page**: [링크](https://absorbed-splash-9bb.notion.site/a1834c6a357d4bfe84a5722cd9f11c60)
