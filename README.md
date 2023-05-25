@@ -9,6 +9,7 @@
 달나라 토끼의 주 업무는 맛있는 떡을 만드는 것! 이지만…. 주인공 토끼(플레이어)는 `이상한 나라의 앨리스`를 읽고 시계 토끼를 동경하게 되어 앨리스를 찾아 지구로 떠나게 되었습니다. 지구에 도착했지만 다양한 동화 속 인물들의 사건을 해결해야만 앨리스를 찾을 수 있으며, 주인공은 `도약이 가능한 회중시계`를 이용해 사건을 해결해 나갈 수 있습니다.   
 - **플랫폼**: Android :iphone:    
 - **장르**: `2.5D 횡스크롤 와이어 액션 플랫포머` 게임  
+- **다운방법**: [[Download](https://play.google.com/store/apps/details?id=com.newbies.FindingAlice&hl=ko)  ] Google Play Store에서 다운 
 
 ***
 ## Finding Alice 챕터
@@ -69,6 +70,10 @@
 
 - **플랫폼 이미지**   
 ![플랫폼](https://github.com/Gyuri0315/FindingAlice/assets/122785488/20389222-d7bb-4fd6-8fa2-a79adba3d763)   
+
+- **캐릭터 이미지**   
+### 캐릭터 소개   
+![파인딩 앨리스 캐릭터](https://github.com/yujini1121/FindingAlice_2022/assets/107358820/a334200d-4eb4-4b1c-9ab3-08be65e9dc54)  
 
 - **캐릭터 스프라이트 이미지**   
 ![캐릭터 스프라이트](/Deck/Rabbit_Sprite.PNG)   
