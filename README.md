@@ -97,7 +97,7 @@
    * **함수 (Methods):**   
       * 함수의 이름은 카멜 케이스(CamelCase)를 사용합니다. (예: OnPointerDown, FindPairedButton)   
    
->>>```
+>>>```C#
 >>> //사용예시
 >>>private void Update()
 >>>    {
