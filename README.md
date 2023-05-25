@@ -71,8 +71,7 @@
 - **플랫폼 이미지**   
 ![플랫폼](https://github.com/Gyuri0315/FindingAlice/assets/122785488/20389222-d7bb-4fd6-8fa2-a79adba3d763)   
 
-- **캐릭터 이미지**   
-### 캐릭터 소개   
+- **캐릭터 이미지**     
 ![파인딩 앨리스 캐릭터](https://github.com/yujini1121/FindingAlice_2022/assets/107358820/a334200d-4eb4-4b1c-9ab3-08be65e9dc54)  
 
 - **캐릭터 스프라이트 이미지**   
