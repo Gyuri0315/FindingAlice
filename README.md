@@ -9,7 +9,7 @@
 달나라 토끼의 주 업무는 맛있는 떡을 만드는 것! 이지만…. 주인공 토끼(플레이어)는 `이상한 나라의 앨리스`를 읽고 시계 토끼를 동경하게 되어 앨리스를 찾아 지구로 떠나게 되었습니다. 지구에 도착했지만 다양한 동화 속 인물들의 사건을 해결해야만 앨리스를 찾을 수 있으며, 주인공은 `도약이 가능한 회중시계`를 이용해 사건을 해결해 나갈 수 있습니다.   
 - **플랫폼**: Android :iphone:    
 - **장르**: `2.5D 횡스크롤 와이어 액션 플랫포머` 게임  
-- **다운방법**: Google Play Store에서 다운 [[Download](https://play.google.com/store/apps/details?id=com.newbies.FindingAlice&hl=ko)  ]
+- **다운방법**: Google Play Store에서 다운 [[Download](https://play.google.com/store/apps/details?id=com.newbies.FindingAlice&hl=ko)]
 
 ***
 ## Finding Alice 챕터
@@ -121,3 +121,38 @@
 ***
 - **파인딩앨리스 설문조사 링크**: [링크](https://docs.google.com/forms/d/e/1FAIpQLScKXSLZwnU7ZOz2QlLN3dmoqAGOPZDtzA7EsF5PSpt_eQ7j4g/viewform?usp=sharing)
 - **파인딩앨리스 기획서 Notion Page**: [링크](https://absorbed-splash-9bb.notion.site/a1834c6a357d4bfe84a5722cd9f11c60)
+
+## 멤버 소개  
+
+<details><summary> 2022 </summary><br/><div markdown="1">
+  
+| 이름 | 구분 | 비고 |
+| --- | --- | --- |
+| 염승민 | [ 기획 / 프로그래밍 ] | 메인 프로그래머 |
+| 이승찬 | [ 프로그래밍] | 메인 프로그래머 |
+| 허재혁 | [ 그래픽 ] | 3D 배경 |
+| 변재현 | [ 기획 ] | 스토리 |
+| 김현모 | [ 기획 / 프로그래밍 ] | 레벨 디자인 |
+| 황송희 | [ 그래픽 ] | 캐릭터 원화 & 아이콘 |
+| 송치원 | [ 그래픽 ] |  |
+| 이상윤 | [ 그래픽 ] | 3D 플랫폼 |
+| 이유진 | [ 프로그래밍 ] |  |
+</div></details><br/>
+
+
+<details><summary> 2023 </summary><br/><div markdown="1">
+  
+| 이름 | 구분 | 비고 |
+| --- | --- | --- |
+| 정하영 | [ 그래픽 ] | 원화 |
+| 고민철 | [ 프로그래밍] | 메인 프로그래머 |
+| 김태현 | [ 프로그래밍 ] | 서브 프로그래머 |
+| 이수진 | [ 그래픽 ] | 2D |
+| 원소영 | [ 그래픽 ] | 3D 배경 |
+| 김민지 | [ 그래픽 ] | 3D 플랫폼 |
+| 김규리 | [ 프로그래밍 ] | 서브 프로그래머 |
+| 정민주 | [ 프로그래밍 ] | 서브 프로그래머 |
+| 이유진 | [ 프로그래밍 ] | 메인 프로그래머 |
+| 진유리 | [ 그래픽 ] | 이펙트 |
+| 김태원 | [ 그래픽 ] |  |
+</div></details><br/><br/><br/><br/>
