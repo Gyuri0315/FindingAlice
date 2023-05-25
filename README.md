@@ -70,27 +70,27 @@
 [주요 스크립트에 대한 설명]
 
 - **코드 스타일 가이드 라인**   
-* **클래스**    
-클래스의 이름은 파스칼 표기법 사용 (예: AxisTouchButton, GameManager)   
-접근 지정자(public, private, 등) 항상 표기   
+   * **클래스**    
+      * 클래스의 이름은 파스칼 표기법 사용 (예: AxisTouchButton, GameManager)   
+      * 접근 지정자(public, private, 등) 항상 표기   
 
-* **변수 (Variables)**    
-변수 이름은 카멜 표기법 사용 (예: axisName, responseSpeed)   
-변수는 기능별로 정렬   
+   * **변수 (Variables)**    
+      * 변수 이름은 카멜 표기법 사용 (예: axisName, responseSpeed)   
+      * 변수는 기능별로 정렬   
 
-* **함수 (Methods):**   
-함수의 이름은 카멜 케이스(CamelCase)를 사용합니다. (예: OnPointerDown, FindPairedButton)   
+   * **함수 (Methods):**   
+      * 함수의 이름은 카멜 케이스(CamelCase)를 사용합니다. (예: OnPointerDown, FindPairedButton)   
    
->```
-> //사용예시
->private void Update()
->    {
->        if (Input.GetKeyDown(KeyCode.R))
->        {
->            SceneManager.LoadScene("Chapter_1");
->        }
->    }
->```
+>>>```
+>>> //사용예시
+>>>private void Update()
+>>>    {
+>>>        if (Input.GetKeyDown(KeyCode.R))
+>>>        {
+>>>            SceneManager.LoadScene("Chapter_1");
+>>>        }
+>>>    }
+>>>```
 
 
 
