@@ -30,23 +30,26 @@
 ## Finding Alice 이미지
 ***
 
-- **튜토리얼 이미지**
-![튜토리얼](https://github.com/Gyuri0315/FindingAlice/assets/122785488/b9e5448f-95e9-4ebe-97b2-7d5ea64cc1a0)
+- **튜토리얼 이미지**   
+![튜토리얼](https://github.com/Gyuri0315/FindingAlice/assets/122785488/b9e5448f-95e9-4ebe-97b2-7d5ea64cc1a0)   
 
-- **챕터 1 이미지**
-![1장](https://github.com/Gyuri0315/FindingAlice/assets/122785488/a52fbb15-6a47-42a2-abf2-24f8c0164a96)
+- **챕터 1 이미지**   
+![1장](https://github.com/Gyuri0315/FindingAlice/assets/122785488/a52fbb15-6a47-42a2-abf2-24f8c0164a96)   
 
-- **플랫폼 이미지**
-![플랫폼](이미지_링크)
+- **플랫폼 이미지**   
+![플랫폼](https://github.com/Gyuri0315/FindingAlice/assets/122785488/20389222-d7bb-4fd6-8fa2-a79adba3d763)   
 
-- **캐릭터 스프라이트 이미지**
-![캐릭터 스프라이트](이미지_링크)
+- **캐릭터 스프라이트 이미지**   
+![캐릭터 스프라이트](/Deck/Rabbit_Sprite.PNG)   
 
-- **아이템 이미지**
-![아이템](이미지_링크)
+- **아이템 이미지**   
+![아이템1](https://github.com/Gyuri0315/FindingAlice/assets/122785488/6a495c0e-b879-4edd-83dc-6a695c2f474f)   
+![아이템2](https://github.com/Gyuri0315/FindingAlice/assets/122785488/79174668-d81c-463d-90ca-e8284bf91b65)   
+![아이템3](https://github.com/Gyuri0315/FindingAlice/assets/122785488/1f2a926f-0e0f-4497-8685-fd1fa4356091)   
 
-***
-## Finding Alice 스크립팅
+
+***   
+## Finding Alice 스크립팅   
 ***
 
 - **파인딩앨리스 주요 스크립트**
